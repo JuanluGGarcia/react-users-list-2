@@ -1,5 +1,7 @@
+import ListUsers from "./components/list-users/ListUsers";
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <ListUsers />;
 };
 
 export default App;
